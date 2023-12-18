@@ -14,7 +14,7 @@ setup(
   description='Analyze_web_source.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='your_url',
+  url='https://github.com/MaixRock/WebAnalyze/tree/master',
   packages=find_packages(),
   install_requires=['requests>=2.25.1',
                     'googlesearch',
@@ -29,9 +29,9 @@ setup(
     'License :: OSI Approved :: MIT License',
     'Operating System :: OS Independent'
   ],
-  keywords='files speedfiles ',
+  keywords='Web Analyze',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/MaixRock/WebAnalyze/tree/master'
   },
   python_requires='>=3.8'
 )
